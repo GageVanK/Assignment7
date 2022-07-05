@@ -14,12 +14,6 @@ public class AppTest {
 		
 	}
 	
-	@Test
-	public void FibEqualsFail() {
-		int val = 10;
-		
-		assertEquals(10, App.fibMethod(val));
-		
-	}
+
 
 }
